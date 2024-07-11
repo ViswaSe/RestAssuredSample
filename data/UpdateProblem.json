@@ -1,0 +1,5 @@
+{
+	"short_description": "Problem has been updated via RestAssured",
+	"category": "Software",
+	"description": "Updated problem using PATCH calls"
+}
